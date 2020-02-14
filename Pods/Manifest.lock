@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - DLRadioButton (1.4.12)
+  - GoogleMaps (3.1.0):
+    - GoogleMaps/Maps (= 3.1.0)
+  - GoogleMaps/Base (3.1.0)
+  - GoogleMaps/Maps (3.1.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (3.1.0):
+    - GoogleMaps (= 3.1.0)
+    - GooglePlaces (= 3.1.0)
+  - GooglePlaces (3.1.0):
+    - GoogleMaps/Base (= 3.1.0)
+  - ImageSlideshow (1.8.0):
+    - ImageSlideshow/Core (= 1.8.0)
+  - ImageSlideshow/Core (1.8.0)
+  - ImageSlideshow/SDWebImage (1.8.0):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.4.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SVPinView (1.0.7)
+  - TCPickerView (0.2.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - DLRadioButton
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - ImageSlideshow
+  - ImageSlideshow/SDWebImage
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - SVPinView
+  - TCPickerView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SVPinView
+    - TCPickerView
+  trunk:
+    - Alamofire
+    - DLRadioButton
+    - iOSDropDown
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  GoogleMaps: 5c13302e6fe6bb6e686b267196586b91cd594225
+  GooglePlacePicker: fa975116ac202ac29822c0a79758ea1c4db5a95f
+  GooglePlaces: e874db179f2675c4f3eeda0b686b540273a578b0
+  ImageSlideshow: 197130fe349aafa9446f54277c792551d41eadf9
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: ed9b04ee0e3067ffba543283462d619f944b05e5
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SVPinView: 6c1da57e4a1273298802f460c60511ba10f7c831
+  TCPickerView: 5964aa81307220bec0d126240a661d37c279e4e6
+
+PODFILE CHECKSUM: 3fbf243f7342d1da60026cee07bfce9616c75e45
+
+COCOAPODS: 1.8.4

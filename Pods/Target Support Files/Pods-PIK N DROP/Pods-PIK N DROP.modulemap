@@ -1,0 +1,6 @@
+framework module Pods_PIK_N_DROP {
+  umbrella header "Pods-PIK N DROP-umbrella.h"
+
+  export *
+  module * { export * }
+}
